@@ -1,5 +1,5 @@
-# we3-vanity-wallet-generator
-we3-vanity-wallet-generator 是一个生成 web3 钱包靓号的工具，该工具可以帮你生成一个包含你选择的内容的地址，支持 btc、eth、bsc、tron、sol 等公链。
+# web3-vanity-wallet-generator
+web3-vanity-wallet-generator 是一个生成 web3 钱包靓号的工具，该工具可以帮你生成一个包含你选择的内容的地址，支持 btc、eth、bsc、tron、sol 等公链。
 
 # how to use
 
