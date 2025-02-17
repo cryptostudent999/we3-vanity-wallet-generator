@@ -1,5 +1,5 @@
-# we3-vanity-wallet-generator
-we3-vanity-wallet-generator는 web3 vanity wallet을 생성하는 도구입니다. 이 도구는 귀하가 선택한 일부 콘텐츠로 주소를 생성하는 데 도움이 될 수 있습니다. 이 도구는 btc, eth, bsc, tron, sol 등과 같은 공개 체인을 지원합니다.
+# web3-vanity-wallet-generator
+web3-vanity-wallet-generator는 web3 vanity wallet을 생성하는 도구입니다. 이 도구는 귀하가 선택한 일부 콘텐츠로 주소를 생성하는 데 도움이 될 수 있습니다. 이 도구는 btc, eth, bsc, tron, sol 등과 같은 공개 체인을 지원합니다.
  
 # how to use
 
